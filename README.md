@@ -22,5 +22,3 @@
 - You can view the attendance after clicking `View Attendance` button. It will show record in tabular format.
 
 
-
-## Just follow me and Star⭐ my repository
